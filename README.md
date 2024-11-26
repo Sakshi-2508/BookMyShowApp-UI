@@ -57,7 +57,7 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 ## 👤 Author
 
-- **[Your Name](https://github.com/Sakshi-0825)**
+- **[Sakshi Angre](https://github.com/Sakshi-0825)**
 - **Email:** sakshi.angre1999@gmail.com
 
 ---
