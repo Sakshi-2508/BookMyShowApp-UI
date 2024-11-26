@@ -19,10 +19,10 @@ A modern and interactive **BookMyShow-inspired app UI**, built with a focus on i
 ---
 
 ## 📸 Screenshots
-![HomePage Screen](https://raw.githubusercontent.com/Sakshi-2508/BookMyShowApp-UI/refs/heads/master/screenshot/1.png)
-![Movies Screen](https://raw.githubusercontent.com/Sakshi-2508/BookMyShowApp-UI/refs/heads/master/screenshot/1.png)
-![Event Screen](https://raw.githubusercontent.com/Sakshi-2508/BookMyShowApp-UI/refs/heads/master/screenshot/1.png)
-![Profile Screen](https://raw.githubusercontent.com/Sakshi-2508/BookMyShowApp-UI/refs/heads/master/screenshot/1.png)
+![HomePage Screen](https://raw.githubusercontent.com/Sakshi-2508/BookMyShowApp-UI/refs/heads/master/screenshot/1(1).png)
+![Movies Screen](https://raw.githubusercontent.com/Sakshi-2508/BookMyShowApp-UI/refs/heads/master/screenshot/2(1).png)
+![Event Screen](https://raw.githubusercontent.com/Sakshi-2508/BookMyShowApp-UI/refs/heads/master/screenshot/3(1).png)
+![Profile Screen](https://raw.githubusercontent.com/Sakshi-2508/BookMyShowApp-UI/refs/heads/master/screenshot/4(1).png)
 
 ---
 
