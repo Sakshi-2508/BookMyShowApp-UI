@@ -1,7 +1,3 @@
-Here’s a **professional and engaging README template** for your BookMyShow UI project:
-
----
-
 # 🎭 BookMyShow App UI
 
 A modern and interactive **BookMyShow-inspired app UI**, built with a focus on intuitive user experience and clean design principles. This project showcases a responsive and visually appealing interface for exploring events, booking tickets, and managing reservations.
@@ -28,23 +24,8 @@ A modern and interactive **BookMyShow-inspired app UI**, built with a focus on i
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** [Flutter/React Native/Jetpack Compose (or your choice)]
-- **Programming Language:** [Kotlin/Java/TypeScript/Dart]
-- **State Management:** [Redux/Provider/StateFlow/etc.]
+- **Frontend Framework:** [Flutter]
 - **Design:** Material Design/Custom Animations
-
----
-
-## 📂 Project Structure
-
-```
-/assets                # Images, icons, and other resources  
-/lib                   # Core app files  
-    /screens           # Individual screens (Home, Details, Booking, etc.)  
-    /widgets           # Reusable components  
-    /models            # Data models  
-    /utils             # Utility functions and constants  
-```
 
 ---
 
@@ -58,12 +39,12 @@ A modern and interactive **BookMyShow-inspired app UI**, built with a focus on i
 
 2. **Install dependencies:**
    ```bash  
-   npm install  # or flutter pub get / gradle build  
+   flutter pub get
    ```  
 
 3. **Run the app:**
    ```bash  
-   npm start    # or flutter run / gradlew assembleDebug  
+   flutter run
    ```  
 
 ---
@@ -76,9 +57,8 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 ## 👤 Author
 
-- **[Your Name](https://github.com/yourusername)**
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **[Your Name](https://github.com/Sakshi-0825)**
+- **Email:** sakshi.angre1999@gmail.com
 
 ---
 
