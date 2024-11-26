@@ -33,7 +33,7 @@ A modern and interactive **BookMyShow-inspired app UI**, built with a focus on i
 
 1. **Clone the repository:**
    ```bash  
-   git clone https://github.com/yourusername/bookmyshow-app-ui.git  
+   git clone https://github.com/Sakshi-2508/BookMyShowApp-UI.git
    cd bookmyshow-app-ui  
    ```  
 
