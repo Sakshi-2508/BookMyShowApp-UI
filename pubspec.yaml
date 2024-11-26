@@ -1,0 +1,207 @@
+name: bookmyshow
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  video_player: ^2.9.2
+  carousel_slider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^4.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+   - assets/banner1.jpg
+   - assets/banner2.jpg
+   - assets/banner3.jpg
+   - assets/banner4.jpg
+
+
+   - assets/smart.jpg
+
+   - assets/movie.jpg
+   - assets/movie1.jpg
+   - assets/movie2.jpg
+   - assets/movie3.jpg
+   - assets/movie4.jpg
+   - assets/movie5.jpg
+   - assets/movie6.jpg
+   - assets/movie7.jpg
+   - assets/movie8.jpg
+   - assets/movie9.jpg
+
+   - assets/cinema.jpg
+   - assets/cinema1.jpg
+
+   - assets/ticket.jpg
+   - assets/ticket.png
+
+   - assets/maroon.jpg
+   - assets/maroon1.jpg
+   - assets/maroon2.jpg
+   - assets/maroon3.jpg
+   - assets/maroon4.jpg
+
+   - assets/park.jpg
+   - assets/park1.jpg
+   - assets/park2.jpg
+   - assets/park3.jpg
+   - assets/park4.jpg
+
+   - assets/old.jpg
+   - assets/old1.jpg
+   - assets/old2.jpg
+   - assets/old3.jpg
+   - assets/old4.jpg
+
+   - assets/corn.jpg
+
+   - assets/event1.jpg
+   - assets/event2.jpg
+   - assets/event3.jpg
+
+   - assets/prime.jpg
+   - assets/prime1.jpg
+   - assets/prime2.jpg
+   - assets/prime3.jpg
+
+   - assets/soon.jpg
+
+   - assets/pic.jpg
+   - assets/pic1.jpg
+   - assets/pic2.jpg
+   - assets/pic3.jpg
+   - assets/pic4.jpg
+   - assets/pic5.jpg
+   - assets/pic6.jpg
+
+   - assets/show1.jpg
+   - assets/show2.jpg
+   - assets/show3.jpg
+   - assets/show4.jpg
+   - assets/show5.jpg
+   - assets/show6.jpg
+   - assets/show7.jpg
+   - assets/show8.jpg
+
+   - assets/video.mp4
+
+   - assets/ent1.jpg
+   - assets/ent2.jpg
+   - assets/ent3.jpg
+   - assets/ent4.jpg
+
+   - assets/todo1.jpg
+   - assets/todo2.jpg
+   - assets/todo3.jpg
+   - assets/todo4.jpg
+
+   - assets/dot1.jpg
+   - assets/dot2.jpg
+   - assets/dot3.jpg
+   - assets/dot4.jpg
+   - assets/dot5.jpg
+   - assets/dot6.jpg
+   - assets/dot7.jpg
+   - assets/dot8.jpg
+   - assets/dot9.jpg
+
+   - assets/week1.jpg
+   - assets/week2.jpg
+   - assets/week3.jpg
+   - assets/week4.jpg
+   - assets/week5.jpg
+
+   - assets/food1.jpg
+   - assets/food2.jpg
+   - assets/food3.jpg
+   - assets/food4.jpg
+   - assets/food5.jpg
+   - assets/food6.jpg
+
+   - assets/game1.jpg
+   - assets/game2.png
+   - assets/game3.png
+   - assets/game4.jpg
+   - assets/game5.jpg
+   - assets/game6.jpg
+   - assets/game7.jpg
+
+
+
+     # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package
